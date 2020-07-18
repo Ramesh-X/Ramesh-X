@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there, I'm Ramesh &mdash; @Ramesh-X 👋 🇱🇰 
 
-<!--
-**Ramesh-X/Ramesh-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "I Used To Be An Adventurer Like You, Then I Took A Programming Lesson"
 
-Here are some ideas to get you started:
+Hi, I'm Ramesh, co-founder at [Fcode Labs](https://www.fcodelabs.com) and working as the Head of Engineering. Programming has been my passion since I can remember and I love sharing what I know with others. In this Information Age, anyone who writes code just for themselves should be shameful. Visit my repositories and share your thoughts with me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> PS: I love skyrim !!
+
+### Get in touch
+
+🏬 Take a look at [our company profile](https://www.fcodelabs.com/about).
+
+📚 You can visit my blog [here at medium](https://medium.com/@RameshX). 
+
+💻 Also you can find me at [stackoverflow](https://stackoverflow.com/users/2924323/ramesh-x).
+
+I have accounts in lots of social media accounts like twitter, facebook, etc. But if you really need to contact me,
+
+:large_blue_circle: LinkedIn: https://www.linkedin.com/in/rameshx
+
+:red_circle: Email me: rsoft.ramesh@gmail.com
+
+> 👨🏻‍💻 Programmer by day, Programmer by night :grin:
