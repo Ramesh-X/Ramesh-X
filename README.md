@@ -14,7 +14,7 @@ Hi, I'm Ramesh, co-founder at [Fcode Labs](https://www.fcodelabs.com) and workin
 
 💻 Also you can find me at [stackoverflow](https://stackoverflow.com/users/2924323/ramesh-x).
 
-I have accounts in lots of social media accounts like twitter, facebook, etc. But if you really need to contact me,
+I have accounts in lots of social media platforms like Twitter, Facebook, etc. But if you really need to contact me,
 
 :large_blue_circle: LinkedIn: https://www.linkedin.com/in/rameshx
 
