@@ -1,4 +1,9 @@
-## Hi there, I'm Ramesh &mdash; @Ramesh-X 👋 🇱🇰 
+## Hi there, I'm Ramesh &mdash; @Ramesh-X 👋 🇱🇰
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ramesh-X) ![Github](https://img.shields.io/github/followers/Ramesh-X?label=Follow&style=social)
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Ramesh-X&row=1&column=5)
 
 > "I Used To Be An Adventurer Like You, Then I Took A Programming Lesson"
 
@@ -21,3 +26,7 @@ I have accounts in lots of social media platforms like Twitter, Facebook, etc. B
 :red_circle: Email me: rsoft.ramesh@gmail.com
 
 > 👨🏻‍💻 Programmer by day, Programmer by night :grin:
+
+### Github stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramesh-X&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramesh-X)
