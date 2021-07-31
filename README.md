@@ -15,7 +15,7 @@ Hi, I'm Ramesh, co-founder at [Fcode Labs](https://www.fcodelabs.com) and workin
 
 🏬 Take a look at [our company profile](https://www.fcodelabs.com/about).
 
-📚 You can visit my blogs at [dev.to](https://dev.to/rameshx) and [medium](https://medium.com/@RameshX). 
+📚 You can visit my personal blog at [ramesh-x.github.io](http://ramesh-x.github.io/).
 
 💻 Also you can find me at [stackoverflow](https://stackoverflow.com/users/2924323/ramesh-x).
 
