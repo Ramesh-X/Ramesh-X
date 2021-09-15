@@ -23,7 +23,7 @@ I have accounts in lots of social media platforms like Twitter, Facebook, etc. B
 
 :large_blue_circle: LinkedIn: https://www.linkedin.com/in/rameshx
 
-:red_circle: Email me: rsoft.ramesh@gmail.com
+:red_circle: Email me: ramesh@fcodelabs.com
 
 > 👨🏻‍💻 Programmer by day, Programmer by night :grin:
 
